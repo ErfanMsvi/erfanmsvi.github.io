@@ -1,6 +1,5 @@
 ---
 layout: persian
-classes: wide rtl-layout
 dir: rtl
 title: "روش های تجمیعی در یادگیری ماشین"
 permalink: /document/large-language-models/introduction
