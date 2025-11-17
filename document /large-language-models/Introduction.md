@@ -1,5 +1,7 @@
 ---
 layout: single
+rtl: true
+locale: "fa-IR"
 title: "روش های تجمیعی در یادگیری ماشین"
 permalink: /document/large-language-models/introduction
 author_profile: true
