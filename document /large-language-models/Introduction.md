@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Students"
-permalink: /ThesisTitle/
+permalink: /document/large-language-models/introduction
 author_profile: true
 classes: wide
 ---
